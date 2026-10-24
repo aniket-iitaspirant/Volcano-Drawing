@@ -1,0 +1,60 @@
+.div2{
+    height: 300px;
+    width: 99%;
+    background-color: #00ff00;
+    position: absolute;
+    margin-top: 504px;
+}
+
+
+.div1{
+    width: 200px;
+    height: 273px;
+    border-left: 500px solid transparent;
+    border-right: 500px solid transparent;
+    border-bottom: 490px solid #555;
+    margin: auto;
+    margin-top: -463px;
+}
+
+
+.div3{
+    width: 199px;
+    height: 273px;
+    border-left: 500px solid transparent;
+    border-right: 501px solid transparent;
+    border-bottom: 490px solid gray;
+    margin: auto;
+    margin-left: -500px;
+}
+
+
+.colude{
+    margin-left: 27%;
+    position: absolute;
+    margin-top: -91px;
+    height: 421px;
+    width: 679px;
+}
+
+.div4{
+    width: 199px;
+    height: 273px;
+    border-left: 290px solid transparent;
+    border-right: 290px solid transparent;
+    border-bottom: 425px solid rgb(181 100 63);
+    margin: auto;
+    margin-left: -289px;
+}
+
+.div5{
+    height: 65px;
+    width: 776px;
+    margin: auto;
+    position: absolute;
+    margin-left: -336px;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 64px solid #E42217;
+    margin-top: -65px;
+}
